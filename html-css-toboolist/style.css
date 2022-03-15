@@ -102,11 +102,11 @@ h2{
     
     border-radius: 20px;
     border-style: solid;
-    border-color:violet;
+    border-color:purple;
     line-height: 25px;
     color:white;
 
-    background-color: violet;
+    background-color: purple;
     
        
 }
@@ -119,11 +119,11 @@ h2{
     
     border-radius: 20px;
     border-style: solid;
-    border-color:greenyellow;
+    border-color:green;
     line-height: 25px;
     color:white;
 
-    background-color: greenyellow;
+    background-color: green;
     
        
 }
@@ -142,4 +142,49 @@ h2{
     color: red;
     line-height: 25px;
     
+}
+.bordogiallo{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:orange;
+    line-height: 25px;
+    color:white;
+
+    background-color: orange;
+}
+.bordovioletto{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:violet;
+    line-height: 25px;
+    color:white;
+
+    background-color: violet;
+}
+.bordoverdino{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:greenyellow;
+    line-height: 25px;
+    color:white;
+
+    background-color: greenyellow;
 }
