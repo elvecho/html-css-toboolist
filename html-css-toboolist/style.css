@@ -1,3 +1,145 @@
+body{
+    background-color: lightgray;
+}
+header{
+    background-color: white;
+}
 #logo{
-    width: 200px;
+    width: 5%;
+    vertical-align: middle;
+}
+#logo-container{
+    height: 100px;
+    line-height: 100px;
+}
+.contenitore{
+    background-color: white;
+}
+
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.casella1{
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+
+    text-align: center;
+    border-style: solid;
+    border-color: lightblue;
+
+    border-radius: 10px;
+
+    background-color: lightblue;
+    color: white;
+        position: relative;
+        left: 20px;
+    
+}
+#casella2{
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+
+    text-align: center;
+    border-style: solid;
+    border-color: grey;
+color: grey;
+    border-radius: 10px;
+    background-color: white;
+    
+        position: relative;
+        left: 20px;
+        
+}
+h2{
+    
+        position: relative;
+        left: 20px;
+        
+}
+.cerchio1{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+
+    text-align: center;
+
+    border-radius: 50%;
+
+    background-color: white;
+    border-style: solid;
+    border-color:greenyellow;
+    color: greenyellow;
+    line-height: 25px;
+    
+}
+.bordoblu{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:lightblue;
+    line-height: 25px;
+    color:white;
+
+    background-color: lightblue;
+    
+       
+}
+.bordoviola{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:violet;
+    line-height: 25px;
+    color:white;
+
+    background-color: violet;
+    
+       
+}
+.bordoverde{
+    display: inline-block;
+    width: 90px;
+    height: 20px;
+
+    text-align: center;
+    
+    border-radius: 20px;
+    border-style: solid;
+    border-color:greenyellow;
+    line-height: 25px;
+    color:white;
+
+    background-color: greenyellow;
+    
+       
+}
+.cerchio2{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+
+    text-align: center;
+
+    border-radius: 50%;
+
+    background-color: white;
+    border-style: solid;
+    border-color:red;
+    color: red;
+    line-height: 25px;
+    
 }
